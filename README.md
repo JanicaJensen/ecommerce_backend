@@ -61,8 +61,9 @@ localhost:3001/api/categories/
 localhost:3001/api/tags/
 By adding the id numbers after the /, the user may also view specific products, tags or categories as well as update or delete them. 
 
-video that demonstrates full usage: https://drive.google.com/file/d/1KL15dOgBL8GzHQNsiBTEjHg_OOjvS66W/view?usp=sharing
+Video that demonstrates full usage: https://drive.google.com/file/d/1KL15dOgBL8GzHQNsiBTEjHg_OOjvS66W/view?usp=sharing
 
+Second video about how to seed the database: https://drive.google.com/file/d/1lkKVZo51aX0ZDK_AjfWKATfM9gejKT5T/view?usp=sharing
 ![image of insomnia](/assets/watch%20the%20video%20for%20full%20functionality.png)
 
 ## Tests
